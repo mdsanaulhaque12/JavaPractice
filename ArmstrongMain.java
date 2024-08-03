@@ -1,4 +1,4 @@
-package lab5flowcontrol;
+
 import java.util.Scanner;
 public class ArmstrongMain {
     public int cube(int n) {
